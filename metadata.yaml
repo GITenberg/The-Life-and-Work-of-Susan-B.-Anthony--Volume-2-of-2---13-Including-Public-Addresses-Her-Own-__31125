@@ -1,0 +1,28 @@
+_repo: The-Life-and-Work-of-Susan-B.-Anthony--Volume-2-of-2---13-Including-Public-Addresses-Her-Own-__31125
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harper, Ida Husted
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '5924'
+    url: http://www.gutenberg.org/2009/agents/5924
+    wikipedia: http://en.wikipedia.org/wiki/Ida_Husted_Harper
+description: ''
+gutenberg_issued: '2010-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthony, Susan B. (Susan Brownell), 1820-1906'
+- !lcc 'JK'
+title: "The Life and Work of Susan B. Anthony (Volume 2 of 2)\r\nIncluding Public\
+  \ Addresses, Her Own Letters and Many From Her Contemporaries During Fifty Years"
+url: http://www.gutenberg.org/ebooks/31125
