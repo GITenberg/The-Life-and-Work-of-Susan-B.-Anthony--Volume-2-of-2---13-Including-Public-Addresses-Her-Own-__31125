@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5924
     wikipedia: http://en.wikipedia.org/wiki/Ida_Husted_Harper
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31125#The-Life-and-Work-of-Susan-B.-Anthony--Volume-2-of-2---13-Including-Public-Addresses-Her-Own-_
 gutenberg_issued: '2010-01-30'
 gutenberg_type: Text
 identifiers:
